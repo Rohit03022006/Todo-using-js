@@ -67,7 +67,7 @@ You can easily customize the app by modifying the CSS variables in the `:root` s
 
 - Add task completion functionality
 
- Implement local storage to persist tasks
+- Implement local storage to persist tasks
 
 - Add due dates and priorities
 
