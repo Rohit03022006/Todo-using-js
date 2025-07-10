@@ -1,6 +1,7 @@
-# Todo App
+# Todo App Using Javascript
 
 A simple and elegant todo application built with HTML, CSS, and JavaScript.
+<img src="https://github.com/Rohit03022006/Todo-using-js/blob/master/Todo-By-Js.png" width="600" height="400">
 
 ![Todo App Screenshot](https://github.com/Rohit03022006/Todo-using-js/blob/master/Todo-By-Js.png)
 
@@ -17,11 +18,11 @@ A simple and elegant todo application built with HTML, CSS, and JavaScript.
 
 - HTML5
 - CSS3 (with custom properties and modern layout techniques)
-- Vanilla JavaScript (DOM manipulation, event handling)
+- Pure JavaScript (DOM manipulation, event handling, no frameworks)
 
 ## Installation
 
-No installation required! Simply open the `index.html` file in your web browser.
+No installation required! Simply open the `Todo.html` file in your web browser.
 
 ## How to Use
 
@@ -44,6 +45,8 @@ Todo-using-js/
 ├── README.md
 └── Todo-using-js.png
 ```
+
+
 ## Customization
 
 You can easily customize the app by modifying the CSS variables in the `:root` selector:
@@ -61,3 +64,15 @@ You can easily customize the app by modifying the CSS variables in the `:root` s
   --success: #4ad66d;       /* Success color (not currently used) */
 }
 ```
+## Future Enhancements
+
+- Add task completion functionality
+
+ Implement local storage to persist tasks
+
+- Add due dates and priorities
+
+- Include task categories/tags
+
+- Add dark mode support
+
