@@ -2,7 +2,7 @@
 
 A simple and elegant todo application built with HTML, CSS, and JavaScript.
 
-![Todo App Screenshot](./Todo-using-js.png)
+![Todo App Screenshot](https://github.com/Rohit03022006/Todo-using-js/raw/master/Todo-using-js.png)
 
 ## Features
 
