@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Todo App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Todo App</h1>
+        <div class="task-count" id="taskCounter">3 tasks</div>
+      </header>
+
+      <div class="input-group">
+        <input id="taskInput" placeholder="Enter your task" />
+        <button id="addTask">Add task</button>
+      </div>
+
+      //By Default
+      <ul id="ul1">
+        <li>
+          <span class="task-text">Eat</span>
+          <button class="button">Delete</button>
+        </li>
+        <li>
+          <span class="task-text">Sleep</span>
+          <button class="button">Delete</button>
+        </li>
+        <li>
+          <span class="task-text">Study</span>
+          <button class="button">Delete</button>
+        </li>
+      </ul>
+
+      <div class="toast" id="toast">
+        <span>Please enter a task!</span>
+      </div>
+    </div>
+  </body>
+  <script src="script.js"></script>
+</html>
