@@ -1,7 +1,6 @@
 # Todo App Using Javascript
 
 A simple and elegant todo application built with HTML, CSS, and JavaScript.
-<img src="https://github.com/Rohit03022006/Todo-using-js/blob/master/Todo-By-Js.png" width="600" height="400">
 
 ![Todo App Screenshot](https://github.com/Rohit03022006/Todo-using-js/blob/master/Todo-By-Js.png)
 
